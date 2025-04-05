@@ -1,0 +1,45 @@
+﻿@model Eurekabank_Cliente_Dotnet_Rest_G6.Models.LoginModel
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eureka Bank - Inicio de Sesión</title>
+    <link rel="stylesheet" href="/css/styles.css"> <!-- Ruta del archivo CSS -->
+</head>
+<body>
+    <div class="central-container">
+        <!-- Contenedor principal único -->
+        <div class="login-container">
+            <!-- Columna izquierda -->
+            <div class="info">
+                <img src="https://www.espe.edu.ec/wp-content/uploads/2018/11/espe.png" alt="Universidad de las Fuerzas Armadas ESPE">
+                <h2>Arquitectura de Software</h2>
+                <p>Cuida tu usuario y contraseña.</p>
+                <p>Antes de ingresar verifica que los datos sean correctos.</p>
+                <span class="secure-badge">Universidad de las Fuerzas Armadas ESPE</span>
+            </div>
+
+            <!-- Columna derecha -->
+            <div class="form">
+                <h1>Bienvenido a Eureka Bank RESTFUL, Monster</h1>
+                <form method="post" action="/Login/Login">
+                    <label for="username">Usuario</label>
+                    <input type="text" id="username" name="Username" placeholder="Ingrese su usuario" class="form-control" required>
+
+                    <label for="password">Contraseña</label>
+                    <input type="password" id="password" name="PasswordHash" placeholder="Ingrese su contraseña" class="form-control" required>
+
+                    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+                    {
+                        <p id="loginStatus" class="alert alert-danger">@ViewBag.ErrorMessage</p>
+                    }
+
+                    <button type="submit" class="btn btn-primary">Ingresar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

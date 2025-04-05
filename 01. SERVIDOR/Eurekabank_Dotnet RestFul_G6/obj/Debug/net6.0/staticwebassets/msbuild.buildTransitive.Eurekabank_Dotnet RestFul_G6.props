@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Eurekabank_Dotnet RestFul_G6.props" />
+</Project>

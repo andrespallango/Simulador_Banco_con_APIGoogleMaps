@@ -1,0 +1,212 @@
+﻿@{
+    ViewData["Title"] = "Consulta de Movimientos";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Movimientos</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <style>
+        /* Barra lateral fija */
+        .sidebar {
+            width: 250px;
+            background-color: white;
+            color: #003e7e;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 20px;
+            position: fixed; /* Barra lateral fija */
+            left: 0;
+            top: 0;
+            height: 100vh;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); /* Sombra para dar profundidad */
+        }
+
+            .sidebar img {
+                width: 120px; /* Ajuste de tamaño del logo */
+                margin-bottom: 20px; /* Espacio debajo del logo */
+            }
+
+            .sidebar h2 {
+                font-size: 22px;
+                margin-bottom: 30px;
+                font-weight: bold;
+                color: #003e7e;
+                text-align: center;
+            }
+
+            .sidebar a {
+                color: #003e7e;
+                text-decoration: none;
+                font-size: 18px;
+                padding: 10px 20px;
+                border-radius: 5px;
+                width: 100%;
+                text-align: center;
+                background-color: #ffd700;
+                transition: background 0.3s;
+                margin-top: 20px;
+                box-sizing: border-box;
+            }
+
+                .sidebar a:hover {
+                    background-color: #f7b900;
+                    color: white;
+                }
+
+        /* Contenedor general */
+        .central-container {
+            margin-left: 250px; /* Espacio para la barra lateral */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f8fb;
+        }
+
+        /* Cuadro principal */
+        .movimientos-container {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 100%;
+            max-width: 800px; /* Ancho máximo del cuadro */
+            text-align: center; /* Centra el contenido del cuadro */
+        }
+
+        h1 {
+            color: #003e7e;
+            font-size: 28px;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        /* Tabla de movimientos */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            table-layout: fixed;
+        }
+
+            table th, table td {
+                border: 1px solid #ddd;
+                padding: 12px;
+                text-align: left;
+            }
+
+            table th {
+                background-color: #003e7e;
+                color: white;
+            }
+
+            table tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+
+            table tr:hover {
+                background-color: #f1f1f1;
+            }
+
+        /* Input y botón */
+        input[type="text"] {
+            padding: 10px;
+            font-size: 16px;
+            width: 100%;
+            max-width: 300px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #003e7e;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            button:hover {
+                background-color: #ffd700;
+            }
+
+        /* Scroll para la tabla */
+        .table-container {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        .no-data {
+            text-align: center;
+            color: #888;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Barra lateral -->
+    <div class="sidebar">
+        <img src="https://www.espe.edu.ec/wp-content/uploads/2018/11/espe.png" alt="Logo ESPE">
+        <h2>Eureka Bank</h2>
+        <a asp-controller="Home" asp-action="Index">Volver al Menú</a>
+    </div>
+
+    <!-- Contenedor central -->
+    <div class="central-container">
+        <div class="movimientos-container">
+            <h1>Consulta de Movimientos</h1>
+            <form method="get" action="/Home/Movimientos" style="text-align: center;">
+                <input type="text" name="cuentaNumero" placeholder="Número de cuenta" value="@ViewBag.NumeroCuenta" required>
+                <br>
+                <button type="submit">Consultar</button>
+            </form>
+
+            @if (ViewBag.Resultado != null)
+            {
+                <p style="text-align: left; font-weight: bold; color: #003e7e; margin-top: 20px;">
+                    Saldo actual: @ViewBag.SaldoActual
+                </p>
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>No.</th>
+                                <th>Tipo</th>
+                                <th>Monto</th>
+                                <th>Fecha</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @for (int i = 0; i < ViewBag.Resultado.Count; i++)
+                            {
+                                var movimiento = ViewBag.Resultado[i];
+                                <tr>
+                                    <td>@movimiento.int_movinumero</td>
+                                    <td>@(movimiento.chr_tipocodigo ?? "Desconocido")</td> <!-- Mostrará la descripción -->
+                                    <td>@movimiento.dec_moviimporte.ToString("F2")</td>
+                                    <td>@movimiento.dtt_movifecha?.ToString("dd/MM/yyyy")</td>
+
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            }
+            else if (!string.IsNullOrEmpty(ViewBag.Error))
+            {
+                <p class="no-data">@ViewBag.Error</p>
+            }
+        </div>
+
+    </div>
+</body>
+</html>

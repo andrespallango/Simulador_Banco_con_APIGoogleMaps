@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "Eurekabank_Cliente_Dotnet_Rest_G6.Controllers.MapsController",
+    "Method": "GetCoordinates",
+    "RelativePath": "api/maps/coordinates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "address",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eurekabank_Cliente_Dotnet_Rest_G6.Controllers.MapsController",
+    "Method": "GetPlaceDetails",
+    "RelativePath": "api/maps/place",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "placeId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

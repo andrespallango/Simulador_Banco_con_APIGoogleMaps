@@ -1,0 +1,102 @@
+[
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G6.Controllers.CuentaController",
+    "Method": "RegistrarDepositos",
+    "RelativePath": "api/Cuenta/{cuentaCodigo}/deposito",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuentaCodigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "importe",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G6.Controllers.CuentaController",
+    "Method": "ObtenerMovimientosPorCuenta",
+    "RelativePath": "api/Cuenta/{cuentaCodigo}/movimientos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuentaCodigo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Eurekabank_Dotnet_RestFul_G6.ec.edu.monster.modelo.Movimiento, Eurekabank_Dotnet RestFul_G6, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G6.Controllers.CuentaController",
+    "Method": "RegistrarRetiros",
+    "RelativePath": "api/Cuenta/{cuentaCodigo}/retiro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cuentaCodigo",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "importe",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G6.Controllers.CuentaController",
+    "Method": "RegistrarTransferencia",
+    "RelativePath": "api/Cuenta/transferencia",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transferenciaRequest",
+        "Type": "Eurekabank_Dotnet_RestFul_G6.Controllers.TransferenciaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Eurekabank_Dotnet_RestFul_G6.ec.edu.monster.controlador.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginRequest",
+        "Type": "Eurekabank_Dotnet_RestFul_G6.ec.edu.monster.modelo.Usuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,278 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Eurekabank API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Cuenta/{cuentaCodigo}/movimientos": {
+      "get": {
+        "tags": [
+          "Cuenta"
+        ],
+        "parameters": [
+          {
+            "name": "cuentaCodigo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Movimiento"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Movimiento"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Movimiento"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Cuenta/{cuentaCodigo}/deposito": {
+      "post": {
+        "tags": [
+          "Cuenta"
+        ],
+        "parameters": [
+          {
+            "name": "cuentaCodigo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "number",
+                "format": "double"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "number",
+                "format": "double"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "number",
+                "format": "double"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Cuenta/{cuentaCodigo}/retiro": {
+      "post": {
+        "tags": [
+          "Cuenta"
+        ],
+        "parameters": [
+          {
+            "name": "cuentaCodigo",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "number",
+                "format": "double"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "number",
+                "format": "double"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "number",
+                "format": "double"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Cuenta/transferencia": {
+      "post": {
+        "tags": [
+          "Cuenta"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferenciaRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferenciaRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/TransferenciaRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Login": {
+      "post": {
+        "tags": [
+          "Login"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Usuario"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Usuario"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Usuario"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Movimiento": {
+        "type": "object",
+        "properties": {
+          "int_movinumero": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "chr_cuencodigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "dtt_movifecha": {
+            "type": "string",
+            "format": "date-time",
+            "nullable": true
+          },
+          "chr_emplcodigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "chr_tipocodigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "dec_moviimporte": {
+            "type": "number",
+            "format": "double"
+          },
+          "chr_cuenreferencia": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "TransferenciaRequest": {
+        "type": "object",
+        "properties": {
+          "cuentaOrigenCodigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "cuentaDestinoCodigo": {
+            "type": "string",
+            "nullable": true
+          },
+          "importe": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Usuario": {
+        "type": "object",
+        "properties": {
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "passwordHash": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

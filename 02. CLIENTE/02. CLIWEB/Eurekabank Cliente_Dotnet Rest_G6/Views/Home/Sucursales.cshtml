@@ -1,0 +1,380 @@
+﻿@{
+    ViewData["Title"] = "Nuestras Sucursales";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nuestras Sucursales</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <style>
+        .sidebar {
+            width: 250px;
+            background-color: white;
+            color: #003e7e;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 20px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            height: 100vh;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+            .sidebar img {
+                width: 120px;
+                margin-bottom: 20px;
+            }
+
+            .sidebar h2 {
+                font-size: 22px;
+                margin-bottom: 30px;
+                font-weight: bold;
+                color: #003e7e;
+                text-align: center;
+            }
+
+            .sidebar a {
+                color: #003e7e;
+                text-decoration: none;
+                font-size: 18px;
+                margin-top: 20px;
+                padding: 10px 20px;
+                border-radius: 5px;
+                width: 100%;
+                text-align: center;
+                background-color: #ffd700;
+                transition: background 0.3s;
+            }
+
+                .sidebar a:hover {
+                    background-color: #f7b900;
+                    color: white;
+                }
+
+        .central-container {
+            margin-left: 250px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px;
+            background-color: #f4f8fb;
+            min-height: 100vh;
+        }
+
+            .central-container h1 {
+                margin-bottom: 40px;
+                color: #003e7e;
+            }
+
+        .branch-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+            padding: 0;
+            list-style: none;
+        }
+
+        .branch-card {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            width: 300px;
+            text-align: center;
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+            .branch-card:hover {
+                transform: translateY(-5px);
+                box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            }
+
+            .branch-card img {
+                width: 100%;
+                border-radius: 8px;
+                margin-bottom: 15px;
+            }
+
+            .branch-card h3 {
+                margin: 0;
+                color: #003e7e;
+            }
+
+            .branch-card p {
+                margin: 10px 0;
+                color: #555;
+            }
+
+        /* ====== MODAL ESTILOS ====== */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            width: 90%;
+            max-width: 800px;
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .close {
+            cursor: pointer;
+            font-size: 24px;
+            color: #003e7e;
+        }
+
+        .map-container {
+            width: 100%;
+            height: 500px;
+            margin-top: 10px;
+            border-radius: 8px;
+        }
+
+        .btn-route {
+            background-color: #003e7e;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+            margin-top: 10px;
+            transition: background-color 0.3s;
+        }
+
+            .btn-route:hover {
+                background-color: #ffd700;
+            }
+
+        .info-container {
+            margin-top: 20px;
+            text-align: left;
+        }
+
+            .info-container p {
+                margin: 5px 0;
+            }
+
+        .duration-info {
+            font-size: 18px;
+            font-weight: bold;
+            color: #003e7e;
+            margin-top: 20px;
+        }
+
+        .transport-mode-container {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .transport-mode {
+            display: flex;
+            align-items: center;
+            margin: 0 10px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            .transport-mode img {
+                width: 40px;
+                height: 40px;
+                margin-right: 10px;
+            }
+
+            .transport-mode.selected {
+                background-color: #003e7e;
+                color: white;
+                border-radius: 5px;
+                padding: 5px 10px;
+            }
+
+                .transport-mode.selected img {
+                    filter: invert(1);
+                }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <img src="https://www.espe.edu.ec/wp-content/uploads/2018/11/espe.png" alt="Logo ESPE">
+        <h2>Eureka Bank</h2>
+        <a asp-controller="Home" asp-action="Index">Volver al Menú</a>
+    </div>
+
+    <div class="central-container">
+        <h1>Nuestras Sucursales</h1>
+        <ul class="branch-list">
+            <li class="branch-card" onclick="openMap(-0.176125, -78.480208, 'Sucursal Quito', 'Av. Amazonas y Naciones Unidas')">
+                <img src="https://www.eluniverso.com/resizer/vYNfJIDX4gIe0T9-1bS0abNiplo=/arc-anglerfish-arc2-prod-eluniverso/public/WETRRQDIQVG2NOO4Z573I6VSAM.jpg" alt="Sucursal Quito">
+                <h3>Quito</h3>
+                <p>Av. Amazonas y Naciones Unidas</p>
+            </li>
+            <li class="branch-card" onclick="openMap(-2.19616, -79.88621, 'Sucursal Guayaquil', 'Malecón 2000')">
+                <img src="https://www.hoteldelparquehistorico.com/wp-content/uploads/2021/11/guayaquil-boardwalk-wheel.jpg" alt="Sucursal Guayaquil">
+                <h3>Guayaquil</h3>
+                <p>Malecón 2000</p>
+            </li>
+            <li class="branch-card" onclick="openMap(-2.899, -79.005, 'Sucursal Cuenca', 'Av. Solano y Remigio Crespo')">
+                <img src="https://www.plusvalia.com/noticias/wp-content/uploads/2024/03/PRIORIDAD-Cuenca-Ciudad-Descubriendo-el-encanto-y-razones-para-llamarla-hogar.jpeg" alt="Sucursal Cuenca">
+                <h3>Cuenca</h3>
+                <p>Av. Solano y Remigio Crespo</p>
+            </li>
+            <li class="branch-card" onclick="openMap(-1.24908, -78.61674, 'Sucursal Ambato', 'Av. Cevallos y Mera')">
+                <img src="https://www.culturaypatrimonio.gob.ec/wp-content/uploads/2020/04/Ambato-2.jpg" alt="Sucursal Ambato">
+                <h3>Ambato</h3>
+                <p>Av. Cevallos y Mera</p>
+            </li>
+        </ul>
+    </div>
+
+    <!-- MODAL PARA EL MAPA -->
+    <div id="map-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title">Mapa de Sucursal</h3>
+                <span class="close" onclick="closeMap()">&times;</span>
+            </div>
+            <div class="info-container">
+                <p id="modal-info"></p>
+                <p id="modal-lat"></p>
+                <p id="modal-lng"></p>
+            </div>
+            <div class="transport-mode-container">
+                <div class="transport-mode" id="mode-driving" onclick="selectTransportMode('DRIVING')">
+                    <img src="https://img.icons8.com/ios-filled/50/000000/car.png" alt="Auto">
+                    <span>Auto</span>
+                </div>
+                <div class="transport-mode" id="mode-two-wheeler" onclick="selectTransportMode('TWO_WHEELER')">
+                    <img src="https://img.icons8.com/ios-filled/50/000000/motorcycle.png" alt="Motocicleta">
+                    <span>Motocicleta</span>
+                </div>
+                <div class="transport-mode" id="mode-walking" onclick="selectTransportMode('WALKING')">
+                    <img src="https://img.icons8.com/ios-filled/50/000000/walking.png" alt="A pie">
+                    <span>A pie</span>
+                </div>
+            </div>
+            <div class="map-container" id="map"></div>
+            <p id="duration-info" class="duration-info"></p>
+            <button id="route-btn" class="btn-route" onclick="calculateRoute()">Cómo llegar</button>
+        </div>
+    </div>
+
+    <script>
+        let map;
+        let userMarker;
+        let branchMarker;
+        let directionsService;
+        let directionsRenderer;
+        let userLocation = null;
+        let destination = null;
+        let selectedMode = 'DRIVING';
+
+        function initMap() {
+            map = new google.maps.Map(document.getElementById('map'), {
+                center: { lat: -0.180653, lng: -78.467834 },
+                zoom: 8
+            });
+
+            directionsService = new google.maps.DirectionsService();
+            directionsRenderer = new google.maps.DirectionsRenderer();
+            directionsRenderer.setMap(map);
+
+            navigator.geolocation.getCurrentPosition(position => {
+                userLocation = {
+                    lat: position.coords.latitude,
+                    lng: position.coords.longitude
+                };
+                map.setCenter(userLocation);
+                userMarker = new google.maps.Marker({
+                    position: userLocation,
+                    map: map,
+                    title: "Tu ubicación"
+                });
+            }, error => {
+                console.error("Error obteniendo la ubicación: ", error);
+            }, {
+                enableHighAccuracy: true,
+                timeout: 5000,
+                maximumAge: 0
+            });
+        }
+
+        function openMap(lat, lng, title, address) {
+            document.getElementById("map-modal").style.display = "flex";
+            document.getElementById("modal-title").textContent = title;
+            document.getElementById("modal-info").innerHTML = `<p><strong>Dirección:</strong> ${address}</p>`;
+            document.getElementById("modal-lat").innerHTML = `<p><strong>Latitud:</strong> ${lat}</p>`;
+            document.getElementById("modal-lng").innerHTML = `<p><strong>Longitud:</strong> ${lng}</p>`;
+
+            destination = { lat, lng };
+            loadMap(lat, lng);
+        }
+
+        function loadMap(lat, lng) {
+            if (branchMarker) {
+                branchMarker.setMap(null);
+            }
+            branchMarker = new google.maps.Marker({
+                position: { lat, lng },
+                map: map,
+                title: "Sucursal"
+            });
+            map.setCenter({ lat, lng });
+            map.setZoom(15);
+        }
+
+        function closeMap() {
+            document.getElementById("map-modal").style.display = "none";
+        }
+
+        function selectTransportMode(mode) {
+            selectedMode = mode;
+            document.querySelectorAll('.transport-mode').forEach(el => el.classList.remove('selected'));
+            document.getElementById(`mode-${mode.toLowerCase()}`).classList.add('selected');
+        }
+
+        function calculateRoute() {
+            if (!userLocation || !destination) return;
+
+            const request = { origin: userLocation, destination: destination, travelMode: selectedMode };
+
+            directionsService.route(request, function(response, status) {
+                if (status === 'OK') {
+                    directionsRenderer.setDirections(response);
+                    document.getElementById("duration-info").textContent = `Duración estimada: ${response.routes[0].legs[0].duration.text}`;
+                }
+            });
+        }
+
+        window.onload = function() {
+            const script = document.createElement('script');
+            script.src = `https://maps.googleapis.com/maps/api/js?key=@ViewBag.GoogleMapsApiKey&callback=initMap`;
+            script.async = true;
+            document.body.appendChild(script);
+        };
+    </script>
+</body>
+</html>

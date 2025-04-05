@@ -1,0 +1,261 @@
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.runtime.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.exe
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.deps.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.runtimeconfig.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.AssemblyReference.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfoInputs.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfo.cs
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CoreCompileInputs.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cs
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank Cliente_Dotnet Rest_G6.styles.css
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\projectbundle\Eurekabank Cliente_Dotnet Rest_G6.bundle.scp.css
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.genruntimeconfig.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CopyComplete
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.runtime.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.exe
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.deps.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.runtimeconfig.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.AssemblyReference.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfoInputs.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfo.cs
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CoreCompileInputs.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cs
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank Cliente_Dotnet Rest_G6.styles.css
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\projectbundle\Eurekabank Cliente_Dotnet Rest_G6.bundle.scp.css
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CopyComplete
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.genruntimeconfig.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G6.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.AssemblyReference.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfoInputs.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfo.cs
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CoreCompileInputs.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cs
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G6.props
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G6.props
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G6.props
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G6.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cs
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.runtime.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.exe
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.deps.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.runtimeconfig.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank Cliente_Dotnet Rest_G6.styles.css
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\projectbundle\Eurekabank Cliente_Dotnet Rest_G6.bundle.scp.css
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CopyComplete
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.runtime.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.exe
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.deps.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.runtimeconfig.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cs
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank Cliente_Dotnet Rest_G6.styles.css
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\projectbundle\Eurekabank Cliente_Dotnet Rest_G6.bundle.scp.css
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CopyComplete
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\02. CLIENTE\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.runtime.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.endpoints.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.exe
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.deps.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.runtimeconfig.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cs
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank Cliente_Dotnet Rest_G6.styles.css
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\projectbundle\Eurekabank Cliente_Dotnet Rest_G6.bundle.scp.css
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekaba.A438EAE6.Up2Date
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.endpoints.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.runtime.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.exe
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.deps.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.runtimeconfig.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cs
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank Cliente_Dotnet Rest_G6.styles.css
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\projectbundle\Eurekabank Cliente_Dotnet Rest_G6.bundle.scp.css
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekaba.A438EAE6.Up2Date
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.endpoints.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.staticwebassets.runtime.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.exe
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.deps.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.runtimeconfig.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.RazorAssemblyInfo.cs
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank Cliente_Dotnet Rest_G6.styles.css
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\scopedcss\projectbundle\Eurekabank Cliente_Dotnet Rest_G6.bundle.scp.css
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank Cliente_Dotnet Rest_G6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank Cliente_Dotnet Rest_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekaba.A438EAE6.Up2Date
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\refint\Eurekabank Cliente_Dotnet Rest_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.pdb
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\Eurekabank Cliente_Dotnet Rest_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\02. CLIENTE\02. CLIWEB\Eurekabank Cliente_Dotnet Rest_G6\obj\Debug\net6.0\ref\Eurekabank Cliente_Dotnet Rest_G6.dll

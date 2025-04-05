@@ -1,0 +1,209 @@
+﻿@{
+    ViewData["Title"] = "Menú Principal";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eureka Bank - Menú Principal</title>
+    <link rel="stylesheet" href="/css/styles.css"> <!-- Ruta del archivo CSS -->
+    <style>
+        /* Estilo adicional para el menú */
+        .menu-container {
+            display: flex;
+            height: 100vh;
+            font-family: 'Roboto', sans-serif;
+        }
+
+        /* Barra lateral pegada a la izquierda */
+        .sidebar {
+            width: 250px;
+            background-color: white;
+            color: #003e7e;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 20px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            height: 100vh;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .sidebar img {
+            width: 150px;
+            margin-bottom: 20px;
+        }
+
+        .sidebar h2 {
+            font-size: 22px;
+            margin-bottom: 30px;
+            font-weight: bold;
+            color: #003e7e;
+            text-align: center;
+        }
+
+        .sidebar a {
+            color: #003e7e;
+            text-decoration: none;
+            font-size: 18px;
+            margin-top: 20px;
+            padding: 10px 20px;
+            border-radius: 5px;
+            width: 100%;
+            text-align: center;
+            background-color: #ffd700;
+            transition: background 0.3s;
+        }
+
+        .sidebar a:hover {
+            background-color: #f7b900;
+            color: white;
+        }
+
+        /* Contenido principal */
+        .content {
+            flex: 1;
+            padding: 40px;
+            background-color: #f4f8fb;
+            margin-left: 250px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .content h1 {
+            color: #003e7e;
+            font-size: 26px;
+            margin-bottom: 40px;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .cards {
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+            justify-content: center;
+            width: 100%;
+        }
+
+        .card {
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 280px;
+            text-align: center;
+            transition: transform 0.3s, box-shadow 0.3s;
+            font-size: 16px;
+            /* Centrado del contenido */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+        }
+
+            .card img {
+                max-width: 80px;
+                margin-bottom: 25px;
+                /* Centrado del ícono */
+                display: block;
+            }
+
+        .card h3 {
+            color: #003e7e;
+            font-size: 20px;
+            margin-bottom: 15px;
+            font-weight: bold;
+        }
+
+        .card p {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+
+        .card button {
+            background-color: #003e7e;
+            color: white;
+            border: none;
+            padding: 12px 30px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s;
+        }
+
+        .card button:hover {
+            background-color: #ffd700;
+        }
+    </style>
+</head>
+<body>
+    <div class="menu-container">
+        <!-- Barra lateral -->
+        <div class="sidebar">
+            <img src="https://www.espe.edu.ec/wp-content/uploads/2018/11/espe.png" alt="Logo ESPE">
+            <h2>Eureka Bank</h2>
+            <a asp-controller="Login" asp-action="Login">Cerrar sesión</a>
+        </div>
+
+        <!-- Contenido principal -->
+        <div class="content">
+            <h1>Selecciona una opción</h1>
+            <div class="cards">
+                <!-- Tarjeta para Registrar Depósito -->
+                <div class="card">
+                    <img src="https://cdn-icons-png.freepik.com/512/6135/6135545.png" alt="Registrar Depósito">
+                    <h3>Registrar Depósito</h3>
+                    <p>Realiza depósitos fácilmente en tu cuenta bancaria.</p>
+                    <button onclick="window.location.href='@Url.Action("Deposito", "Home")'">Registrar</button>
+                </div>
+
+                <!-- Tarjeta para Consultar Movimientos -->
+                <div class="card">
+                    <img src="https://cdn-icons-png.flaticon.com/512/751/751381.png" alt="Consultar Movimientos">
+                    <h3>Consultar Movimientos</h3>
+                    <p>Revisa los movimientos recientes de tu cuenta.</p>
+                    <button onclick="window.location.href='@Url.Action("Movimientos", "Home")'">Consultar</button>
+                </div>
+
+                <!-- Tarjeta para Retiro -->
+                <div class="card">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5024/5024665.png" alt="Realizar Retiro">
+                    <h3>Realizar Retiro</h3>
+                    <p>Retira dinero de tu cuenta bancaria de manera segura.</p>
+                    <button onclick="window.location.href='@Url.Action("Retiro", "Home")'">Retirar</button>
+                </div>
+
+                <!-- Tarjeta para Transferencia -->
+                <div class="card">
+                    <img src="https://cdn-icons-png.flaticon.com/512/5950/5950200.png" alt="Realizar Transferencia">
+                    <h3>Realizar Transferencia</h3>
+                    <p>Transfiere dinero a otra cuenta bancaria rápidamente.</p>
+                    <button onclick="window.location.href='@Url.Action("Transferencia", "Home")'">Transferir</button>
+                </div>
+
+                <!-- Tarjeta para Sucursales -->
+                <div class="card">
+                    <img src="https://cdn-icons-png.flaticon.com/512/856/856332.png" alt="Sucursales">
+                    <h3>Ver Sucursales</h3>
+                    <p>Encuentra la sucursal más cercana a tu ubicación.</p>
+                    <button onclick="window.location.href='@Url.Action("Sucursales", "Home")'">Ver</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

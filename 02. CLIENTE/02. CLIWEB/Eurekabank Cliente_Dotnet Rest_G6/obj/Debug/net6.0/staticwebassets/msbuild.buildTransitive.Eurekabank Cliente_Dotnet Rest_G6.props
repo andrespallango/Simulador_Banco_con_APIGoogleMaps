@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Eurekabank Cliente_Dotnet Rest_G6.props" />
+</Project>

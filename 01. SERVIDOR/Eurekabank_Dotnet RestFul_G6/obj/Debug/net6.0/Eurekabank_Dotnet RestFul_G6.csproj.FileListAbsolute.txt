@@ -1,0 +1,580 @@
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CopyComplete
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+D:\8vo Semestre\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekaba.12A5F726.Up2Date
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+C:\Users\pauls\OneDrive\Escritorio\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CopyComplete
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\SI_2024\SI_2024\ArquitecturaS\Arquitectura\Primer Parcial\Eurekabank_G6\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CopyComplete
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\EUREKABANK\DOTNET\RESTFUL\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CopyComplete
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK_RESTFUL_DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CopyComplete
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\Segundo Parcial\BDD EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.staticwebassets.endpoints.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekaba.12A5F726.Up2Date
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\MySql.Data.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\MySqlConnector.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Text.Json.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\ZstdSharp.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\comerr64.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\gssapi64.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\krb5_64.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\krbcc64.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\Arquitectura de Software\Segundo Parcial\EUREKABANK EN LA NUBE\DOTNET\RESTFUL DOTNET\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Google.Protobuf.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\MySql.Data.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\MySqlConnector.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CopyComplete
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.staticwebassets.runtime.json
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Humanizer.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\ZstdNet.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\Arquitectura_Software\MICROSERVICIOS EUREKA\DOTNET_RESTFUL_MICROSERVICIOS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.staticwebassets.runtime.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.staticwebassets.endpoints.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Humanizer.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\MySql.Data.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\ZstdNet.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\MySqlConnector.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekaba.12A5F726.Up2Date
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.Development.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\appsettings.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.staticwebassets.runtime.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.staticwebassets.endpoints.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.exe
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.deps.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.runtimeconfig.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Humanizer.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\MySql.Data.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\ZstdNet.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\MySqlConnector.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.AssemblyReference.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfoInputs.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.AssemblyInfo.cs
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.csproj.CoreCompileInputs.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cs
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.MvcApplicationPartsAssemblyInfo.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\scopedcss\bundle\Eurekabank_Dotnet RestFul_G6.styles.css
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.development.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.Eurekabank_Dotnet RestFul_G6.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.build.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eurekabank_Dotnet RestFul_G6.props
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekaba.12A5F726.Up2Date
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\refint\Eurekabank_Dotnet RestFul_G6.dll
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.pdb
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\Eurekabank_Dotnet RestFul_G6.genruntimeconfig.cache
+D:\Arquitectura de Software\Tercer Parcial\GOOGLE MAPS\DOTNET\APLICATIVO\01. SERVIDOR\Eurekabank_Dotnet RestFul_G6\obj\Debug\net6.0\ref\Eurekabank_Dotnet RestFul_G6.dll

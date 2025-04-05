@@ -1,0 +1,244 @@
+﻿@{
+    ViewData["Title"] = "Registrar Depósito";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registrar Depósito</title>
+    <link rel="stylesheet" href="/css/styles.css">
+    <style>
+        /* Barra lateral fija */
+        .sidebar {
+            width: 250px;
+            background-color: white;
+            color: #003e7e;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 20px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            height: 100vh;
+            box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+            .sidebar img {
+                width: 120px;
+                margin-bottom: 20px;
+            }
+
+            .sidebar h2 {
+                font-size: 22px;
+                margin-bottom: 30px;
+                font-weight: bold;
+                color: #003e7e;
+                text-align: center;
+            }
+
+            .sidebar a {
+                color: #003e7e;
+                text-decoration: none;
+                font-size: 18px;
+                margin-top: 20px;
+                padding: 10px 20px;
+                border-radius: 5px;
+                width: 100%;
+                text-align: center;
+                background-color: #ffd700;
+                transition: background 0.3s;
+            }
+
+                .sidebar a:hover {
+                    background-color: #f7b900;
+                    color: white;
+                }
+
+        /* Contenedor principal centrado */
+        .central-container {
+            margin-left: 250px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f8fb;
+        }
+
+        /* Cuadro de depósito */
+        .deposit-container {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 100%;
+            max-width: 600px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #003e7e;
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+
+        input[type="text"], input[type="number"] {
+            padding: 12px;
+            font-size: 18px;
+            width: 100%;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 12px 30px;
+            font-size: 16px;
+            background-color: #003e7e;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            button:hover {
+                background-color: #ffd700;
+            }
+
+        /* Modal de confirmación */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .modal-content {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            text-align: center;
+            width: 300px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .modal h2 {
+            color: #003e7e;
+            margin-top: 20px;
+        }
+
+        .modal button {
+            background-color: #003e7e;
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-top: 20px;
+        }
+
+            .modal button:hover {
+                background-color: #ffd700;
+            }
+
+        /* Círculo amarillo con visto azul */
+        .checkmark-circle {
+            display: inline-block;
+            width: 60px;
+            height: 60px;
+            background-color: #ffd700;
+            border-radius: 50%;
+            position: relative;
+        }
+
+            .checkmark-circle::after {
+                content: "✔";
+                font-size: 32px;
+                color: #003e7e;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+    </style>
+</head>
+<body>
+    <!-- Barra lateral -->
+    <div class="sidebar">
+        <img src="https://www.espe.edu.ec/wp-content/uploads/2018/11/espe.png" alt="Logo ESPE">
+        <h2>Eureka Bank</h2>
+        <a asp-controller="Home" asp-action="Index">Volver al Menú</a>
+    </div>
+
+    <!-- Contenedor principal -->
+    <div class="central-container">
+        <div class="deposit-container">
+            <h1>Registrar Depósito</h1>
+
+            <form id="depositForm" method="post" action="/Home/Deposito" onsubmit="return handleDeposit(event)">
+                <input type="text" id="cuentaNumero" name="cuentaNumero" placeholder="Número de Cuenta" required>
+                <input type="number" id="valor" name="valor" placeholder="Cantidad a Depositar" min="0.01" step="0.01" required>
+                <button type="submit">Depositar</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Modal de confirmación -->
+    <div class="modal" id="modal">
+        <div class="modal-content">
+            <div class="checkmark-circle"></div>
+            <h2>Depósito registrado exitosamente</h2>
+            <button onclick="goToMenu()">Aceptar</button>
+        </div>
+    </div>
+
+    <script>
+        async function handleDeposit(event) {
+            event.preventDefault();
+            const form = document.getElementById('depositForm');
+            const data = {
+                cuentaNumero: document.getElementById('cuentaNumero').value,
+                valor: parseFloat(document.getElementById('valor').value)
+            };
+
+            try {
+                const response = await fetch(form.action, {
+                    method: 'POST',
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify(data)
+                });
+
+                if (response.ok) {
+                    showModal();
+                } else {
+                    alert('Error al realizar el depósito. Por favor, inténtelo nuevamente.');
+                }
+            } catch (error) {
+                alert('Error al conectar con el servidor.');
+                console.error('Error:', error);
+            }
+        }
+
+        function showModal() {
+            document.getElementById('modal').style.display = 'flex';
+        }
+
+        function goToMenu() {
+            window.location.href = '/Home/Index';
+        }
+    </script>
+
+
+</body>
+</html>
